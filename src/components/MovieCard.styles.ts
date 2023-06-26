@@ -18,6 +18,7 @@ export const MovieCardContainer = styled.div`
 
 export const MovieTitle = styled.p`
   font-weight: bold;
+  color: red;
 `;
 
 export const RemoveButton = styled.button``;
